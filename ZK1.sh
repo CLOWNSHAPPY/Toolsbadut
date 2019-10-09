@@ -100,8 +100,8 @@ apt update
 apt upgrade
 pkg install nmap
 clear
-figlet ZK1IP | lolcat
-echo "Author : ZK1_CYBER" | lolcat
+figlet MRCLOWN | lolcat
+echo "Author : MR.CLOWN" | lolcat
 echo "[+] Perintah Ketik : nmap -v -A (link website) [+]" | lolcat
 echo "[!] Warning !! Setiap Detik IP Bisa Berubah - Ubah" | lolcat
 ;;
