@@ -28,7 +28,7 @@ echo "\33[0;32m[99] \33[31;1mBaru Install Bahan Cok"
 echo "\33[0;32m[88] \33[31;1mKELUAR"
 echo "Install Bahannya Dulu Biar Nggak Gagal Cok!!"
 echo
-read -p "pilihan mu apa yank :" Mrclown
+read -p "Mau Pilih Nomer Berapa Yank :" Mrclown
 
 case $Mrclown in
 1)
@@ -126,7 +126,7 @@ echo "I Hope You Can Enjoy"
 ;;
 *)
 echo "Salah Ketik Nomer Gblk:v"
-sleep 5
+sleep 2
 sh Mrclown.sh
 ;;
 esac
