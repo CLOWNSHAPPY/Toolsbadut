@@ -53,6 +53,8 @@ pkg install curl
 pkg install wget
 pkg install openssh
 git clone https://github.com/thelinuxchoice/shellphishsh 
+cd shellphish
+bash shellphish.sh
 sh shellphish.sh
 ;;
 5)
