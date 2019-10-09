@@ -1,17 +1,17 @@
 clear
 figlet HACKER |lolcat
 echo "\33[31;1m[\33[0;32m======================================\33[31;1m]"
-echo "\33[31;1m[          \33[0;36mAuthor : ZK1_Cyber          \33[31;1m]"
+echo "\33[31;1m[          \33[0;36mAuthor : MR.CLOWN           \33[31;1m]"
 echo "\33[31;1m[      \33[0;36m[!] Gunakan Dengan Bijak [!]    \33[31;1m]"
-echo "\33[31;1m[        \33[0;36m[✓] SECURITY CYBER [✓]        \33[31;1m]"
+echo "\33[31;1m[        \33[0;36m[✓] ASHURA CYBER ARMY[✓]     \33[31;1m]"
 echo "\33[31;1m[\33[0;32m======================================\33[31;1m]"
 echo
 echo
-echo "\33[1;33m[$] Silakan Pilih TOOL Anda [$]"
+echo "\33[1;33m[$] Pilih Tools Nya Sesuka Mu:) [$]"
 echo "\33[0;32m[1] \33[31;1mSpam SMS"
 echo "\33[0;32m[2] \33[31;1mSpam Call"
 echo "\33[0;32m[3] \33[31;1mDDOS Attack"
-echo "\33[0;32m[4] \33[31;1mLink Web Vuln Deface Webdav"
+echo "\33[0;32m[4] \33[31;1mPhising"
 echo "\33[0;32m[5] \33[31;1mMembuat Script Deface Tanpa Coding"
 echo "\33[0;32m[6] \33[31;1mHack Facebook Terbaru 2019"
 echo "\33[0;32m[7] \33[31;1mCara Memutar Lagu/Video YuTube Di Termux"
